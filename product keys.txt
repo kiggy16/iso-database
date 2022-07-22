@@ -1,0 +1,54 @@
+Windows ME product key: B88DH-VQ89B-G4WWK-DCBP2-7B7PW
+Windows XP product key: M6TF9-8XQ2M-YQK9F-7TBB2-XGG88
+Windows 95 product key: 34698-OEM-0039682-72135
+Windows 98 product key: GYXX7-K377D-BMV7H-KGHC2-9W2Q3
+Windows 7 product key (May not work): 6RBBT-F8VPQ-QCPVQ-KHRB8-RMV82
+
+--- Windows 10 ---
+Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9
+Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
+Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
+Run CMD as Administrator and enter the following commands:
+slmgr /ipk [your product key product key]
+slmgr /skms kms8.msguides.com
+slmgr /ato
+----------------------------------------------------------------
+I found this method on https://msguides.com/windows-10
+--- Windows 10 ---
+
+--- Windows 8 ---
+W8 Core: BN3D2-R7TKB-3YPBD-8DRP2-27GG4
+W8 Core Single Language: 2WN2H-YGCQR-KFX6K-CD6TF-84YXQ
+W8 Professional: NG4HW-VH26C-733KW-K6F98-J8CK4
+W8 Professional N: XCVCF-2NXM9-723PB-MHCB7-2RYQQ
+W8 Professional WMC: GNBB8-YVD74-QJHX6-27H4K-8QHDG
+W8 Enterprise: 32JNW-9KQ84-P47T8-D8GGY-CWCK7
+W8 Enterprise N: JMNMF-RHW7P-DMY6X-RF3DR-X2BQT
+W8.1 Core: M9Q9P-WNJJT-6PXPY-DWX8H-6XWKK
+W8.1 Core N: 7B9N3-D94CG-YTVHR-QBPX3-RJP64
+W8.1 Core Single Language: BB6NG-PQ82V-VRDPW-8XVD2-V8P66
+W8.1 Professional: GCRJD-8NW9H-F2CDX-CCM8D-9D6T9
+W8.1 Professional N: HMCNV-VVBFX-7HMBH-CTY9B-B4FXY
+W8.1 Professional WMC: 789NJ-TQK6T-6XTH8-J39CJ-J8D3P
+W8.1 Enterprise: MHF9N-XY6XB-WVXMC-BTDCT-MKKG7
+W8.1 Enterprise N: TT4HM-HN7YT-62K67-RGRQJ-JFFXW
+Run CMD as Administrator and enter the following commands:
+slmgr /ipk [your product key product key]
+slmgr /skms kms8.msguides.com
+slmgr /ato
+----------------------------------------------------------------
+I found this method on https://msguides.com/windows-8-1
+--- Windows 8 ---
+
+Unfortunately I cannot find methods to activate Windows Vista or Windows 7. I do have a Windows 7 product key but it might not work. Windows 7 product key: 6RBBT-F8VPQ-QCPVQ-KHRB8-RMV82
+
+VMware Workstation 16 license key: ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+VMware Workstation 15 license key: FU512-2DG1H-M85QZ-U7Z5T-PY8ZD
